@@ -1,15 +1,76 @@
-## Linguagem de Programação
-A linguagem de programação é a forma como damos instruções a um computador. É como construir com Lego: você utiliza "peças" para criar algoritmos, ou seja, sequências de passos lógicos e finitas para resolver problemas.
+## Linguagem de programação
 
-Algoritmo: Uma sequência de passos lógicos e finita para resolução de um problema.
+Maneira de dar instrução ao computador. 
+Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
-Peças de uma Linguagem de Programação
-As linguagens de programação são compostas por diversas "peças" que trabalham em conjunto para criar programas:
 
-Comentários: São notas que o programador adiciona ao código para explicar o que determinada parte faz. Eles não são executados pelo computador.
-Declaração de variáveis: Usamos variáveis para armazenar dados, como números, textos ou valores lógicos (verdadeiro ou falso). As palavras const e let são usadas para declarar variáveis em muitas linguagens.
-Operadores: São símbolos que realizam operações, como atribuir um valor a uma variável (=), concatenar textos (+), realizar cálculos matemáticos (+, -, *, /) ou comparações lógicas (==, !=, <, >).
-Tipos de dados: Os dados que manipulamos em um programa possuem tipos, como string (texto), number (número) e boolean (verdadeiro ou falso).
-Estruturas de dados: São formas de organizar dados, como functions (funções), object (objetos) e array (arrays).
-Controle de fluxo: Usamos estruturas como if/else para tomar decisões no programa, executando diferentes blocos de código dependendo de uma condição.
-Estruturas de repetição: As estruturas for e while permitem repetir um bloco de código várias vezes, enquanto uma determinada condição for verdadeira.
+    **Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
+
+## Peças de uma linguagem
+
+- Comentários
+- Declaração de variáveis (const, let)
+- Operadores (atribuição, concatenação, matemáticos, lógicos)
+- Tipos de dados (string, number, boolean)
+- Estrutura de dados (functions, object, array)
+- Controle de fluxo (if/else)
+- Estrutura de repetição (for, while)
+
+## Fases da resolução de um problema
+
+Coletar os dados
+Processar os dados (manipular, alterar...)
+apresentar os dados
+
+## Escopo e variáveis:
+
+- [x] Variáveis globais e locais
+- [x] Constantes
+
+## Tipos de dados:
+
+- [x] Strings (texto): "", ''
+- [x] Numbers: 2 1.4
+- [x] Boolean: true, false
+
+## Operadores
+
+- [x] Operadores de atribuição de valor: =
+- [x] Operador de concatenação: +
+- [x] Operadores de comparação: == != <= >= < >
+- [x] Spread operator: ...
+
+## Estruturas de dados:
+
+## arrays:
+
+- [x] Uma lista que contém qualquer tipo de dado
+- [x] Métodos de array: push, find, forEach, filter, map: HOF (Higher Order Functions)
+
+## Objetos:
+
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
+
+## Funções:
+
+- [x] criar, passar argumento
+- [x] executar
+- [x] arrow function / named function
+
+## Estrutura de repetição
+
+- [x]while
+- [x]Condicionais
+- [x]switch
+- [x]if/else
+
+## Módulos em Node.js:
+
+- [x]Importação de módulos (require, CommonJS)
+- [x]Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+
+- [x]Uso de funções assíncronas (async/await)
