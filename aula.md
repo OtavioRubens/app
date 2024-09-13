@@ -61,10 +61,10 @@ apresentar os dados
 
 ## Estrutura de repetição
 
-- [x]while
-- [x]Condicionais
-- [x]switch
-- [x]if/else
+- [x] while
+- [x] Condicionais
+- [x] switch
+- [x] if/else
 
 ## Módulos em Node.js:
 
@@ -80,4 +80,4 @@ apresentar os dados
 
 ## Programação assíncrona e Promises:
 
-- [x]Uso de funções assíncronas (async/await)
+- [x] Uso de funções assíncronas (async/await)
