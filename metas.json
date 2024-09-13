@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Tomar 3L de água por dia",
+    "cheked": false
+  },
+  {
+    "value": "Andar 20m todos os dias",
+    "cheked": false
+  },
+  {
+    "value": "Meditar 10m todos os dias",
+    "cheked": false
+  },
+  {
+    "value": "Ler um livro por 5m",
+    "cheked": false
+  }
+]
